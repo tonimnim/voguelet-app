@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:web-production-b05a4.up.railway.app)",
+      "Bash(cd /c/Users/BEST/voguelet && find . -maxdepth 2 -type d -not -path \"*/node_modules*\" -not -path \"*/.git*\" -not -path \"*/venv*\" -not -path \"*/__pycache__*\" | sort)"
+    ]
+  }
+}
